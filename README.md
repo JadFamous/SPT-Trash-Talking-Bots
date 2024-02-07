@@ -29,6 +29,12 @@ Trash Talk PMCs is a PyQt5-based desktop application that allows users to custom
     pip install PyQt5
     ```
 
+OR
+
+1. Navigate to: https://drive.google.com/file/d/1Dc1kVj8iQRxfkslTcoiqputZpBzyjyom/view?usp=sharing
+
+2. Download the .exe then run the .exe
+
 ### Usage
 
 1. Run the program:
